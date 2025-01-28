@@ -37,3 +37,6 @@ Play and Collaborate: Engage with friends in real-time corridor navigation, solv
 
 ## Contributions
 Contributions to this project are highly encouraged! Whether you want to enhance game features, optimize code, or offer suggestions for improvement, your contributions are valuable. Please open an issue or submit a pull request to get involved.
+
+## Sample
+
