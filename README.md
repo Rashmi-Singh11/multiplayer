@@ -40,6 +40,12 @@ Contributions to this project are highly encouraged! Whether you want to enhance
 
 ## Sample
 
-![Ludo](ludo.png)
+![Ludo](ludo.webp)
+![Snake](Snake.png)
+![Chess](chess-1.png)
+![leaderboard](leaderboard.avif)
+
+
+
 
 
