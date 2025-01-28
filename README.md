@@ -40,3 +40,6 @@ Contributions to this project are highly encouraged! Whether you want to enhance
 
 ## Sample
 
+![Ludo](ludo.png)
+
+
